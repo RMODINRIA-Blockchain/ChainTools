@@ -9,6 +9,6 @@ baseline: spec
 			loads: 'default'  ].
 		spec 
 		baseline: 'Fog' with: [ spec
-			repository: 'github://RMODINRIA-Blockchain/Fog';
+			repository: 'github://RMODINRIA-Blockchain/Fog/src';
 			loads: 'default'  ]
 	]
